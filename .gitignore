@@ -1,0 +1,7 @@
+node_modules/
+build/
+webapi/vendor
+webapi/.idea
+webapi/.env
+webapi/
+.zip
